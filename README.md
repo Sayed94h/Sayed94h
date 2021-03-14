@@ -11,11 +11,8 @@ You can find our final project [here](https://here-my-story.herokuapp.com/)
 ### I can start my career as a web/software developer!
 
 I can help your team with:
-- Reactjs/HTML5
-- Nodejs
-- JavaScript/TypeScript/JQuery
-- Expressjs
-- CSS/SASS
+- Reactjs, HTML5, CSS/SASS
+- Nodejs, Expressjs, JavaScript/TypeScript/JQuery
 - Git/GitHub
 - SQL/SQLite
 - Command-line(MS PowerShell)
