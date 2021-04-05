@@ -4,15 +4,15 @@
 
 Visit my [LinkedIn](https://www.linkedin.com/in/sayed-kazimi-0507/) Profile.
 
-You can find my projects [here](https://everydaysmarter.herokuapp.com/projects.html)
+You can find my finished projects [here](https://everydaysmarter.herokuapp.com/projects.html)
 
 You can find our final project [here](https://here-my-story.herokuapp.com/)
 
 ### I can start my career as a web/software developer!
 
 I can help your team with:
-- Reactjs, HTML5, CSS/SASS
-- Nodejs, Expressjs, JavaScript/TypeScript/JQuery
+- Reactjs, HTML5, CSS3/SASS
+- Nodejs, Expressjs, JavaScript/TypeScript
 - Git/GitHub
 - SQL/SQLite
 - Command-line(MS PowerShell)
