@@ -27,7 +27,16 @@ I can help your team with:
   - VMWare
   - VirtualBox
 
-  
+### I am learning:
+- Angular Frontend Framework
+- Improving my knowledge of React Frontend Library
+- Python
+- Improving my knowledge of C++
+- Improving my knowledge of TypeScript
+
+## Thank you for your visit
+
+
 <!--
 **Sayed94h/Sayed94h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
