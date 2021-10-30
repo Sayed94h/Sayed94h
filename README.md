@@ -10,7 +10,7 @@ You can find my finished projects [here](https://everydaysmarter.herokuapp.com/p
 
 ### I am a web based application developer!
 
-##### Our Current Development stack at work:
+#### Our Current Development stack at work:
 
 1. Python
 2. JavaScript and TypeScript
@@ -23,7 +23,7 @@ You can find my finished projects [here](https://everydaysmarter.herokuapp.com/p
 9. And another development tools
 
 
-I can work with:
+#### I can work with:
 - Reactjs, Vue, Angular, HTML5, CSS3/SASS
 - Nodejs, Expressjs, JavaScript/TypeScript
 - Git/GitHub/GitLab
