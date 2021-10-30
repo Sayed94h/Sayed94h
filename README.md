@@ -6,18 +6,33 @@ Visit my [LinkedIn](https://www.linkedin.com/in/sayed-kazimi-0507/) Profile.
 
 You can find my finished projects [here](https://everydaysmarter.herokuapp.com/projects.html)
 
-You can find our final project [here](https://here-my-story.herokuapp.com/)
+<!-- You can find our final project [here](https://here-my-story.herokuapp.com/) -->
 
-### I can start my career as a web/software developer!
+### I am a web based application developer!
 
-I can help your team with:
-- Reactjs, HTML5, CSS3/SASS
+##### Our Current Development stack at work:
+
+1. Python
+2. JavaScript and TypeScript
+3. Lit, Webpack, Babel, 
+4. SQL
+5. HTML, CSS, SCSS
+6. Git and GitLab
+7. Vue, React, Angular
+8. Navvis IVION
+9. And another development tools
+
+
+I can work with:
+- Reactjs, Vue, Angular, HTML5, CSS3/SASS
 - Nodejs, Expressjs, JavaScript/TypeScript
-- Git/GitHub
+- Git/GitHub/GitLab
 - SQL/SQLite
 - Command-line(MS PowerShell)
+- Python
 - Java(Fundamentals)
 - C++(Fundamentals)
+- C#
 - Microsoft Server 2016/2019
 - Microsoft Office tools(Word, PowerPoint, Excel, Outlook, ...)
 - Microsoft Office365
@@ -28,11 +43,9 @@ I can help your team with:
   - VirtualBox
 
 ### I am learning:
-- Angular Frontend Framework
-- Improving my knowledge of React Frontend Library
-- Python
-- Improving my knowledge of C++
-- Improving my knowledge of TypeScript
+- Frontend Frameworks/libs
+- Improving my knowledge of TypeScript, Python, C++ and C#
+- Improving my knowledge of mobile application development
 
 ## Thank you for your visit
 
