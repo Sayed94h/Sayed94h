@@ -14,7 +14,7 @@ Text Editor or code editor for Android devices. Check the app on Google Play [Te
 
 **The current version of this app(Text Editor) is only for Android 11 and above but the next version will be for Android 4 and above.**
 
-### Please do not forget to rate the app, thank you!
+### Please do not forget to rate my apps on Google Play, thank you!
 
 
 Visit my [LinkedIn](https://www.linkedin.com/in/sayed-kazimi-0507/) Profile.
