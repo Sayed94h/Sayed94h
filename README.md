@@ -23,9 +23,21 @@ You can find my finished projects [here](https://everydaysmarter.herokuapp.com/p
 
 <!-- You can find our final project [here](https://here-my-story.herokuapp.com/) -->
 
-### I am a web based application developer!
+### I am a full stack web developer!
 
 #### Our Current Development stack at work:
+
+1. ASP.Net(C#)
+2. SQL Server
+3. Entity framework
+4. JavaScript
+5. HTML, SCSS, Bootstrap, JQuery
+6. IIS
+7. Visual Studio
+8. SourceTree, Git
+
+
+#### The development stack of my previous job:
 
 1. ASP.Net Core MVC
 2. JavaScript and TypeScript
@@ -59,8 +71,8 @@ You can find my finished projects [here](https://everydaysmarter.herokuapp.com/p
   - VirtualBox
 
 ### I am learning:
-- Frontend Frameworks/libs
-- Improving my knowledge of TypeScript, Python, C++ and C#
+
+- Improving my knowledge of C++ and C#
 - Improving my knowledge of mobile application development
 
 ## Thank you for your visit
