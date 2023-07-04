@@ -4,13 +4,13 @@
 
 ### My Android Apps:
 
-## HTTP Response code
+#### HTTP Response code
 
 Check the app on Google Play by clicking [here](https://play.google.com/store/apps/details?id=com.aqyanoos.httpresponsecode).
 
 This app helps you search, learn and practice HTTP reponse codes or http status codes. This app is a great reference for http status codes. There is also a very helpful QUIZ game inside the app about status codes.
 
-## Dream Board
+#### Dream Board
 
 Check the app on Google Play by clicking [here](https://play.google.com/store/apps/details?id=com.aqyanoos.dreamboard).
 
@@ -25,7 +25,7 @@ This is a drawing application or a digital board that helps you draw anything yo
 5. Change board's dimension(width and height) to any dimension you want.
 6. Save your drawing on your device as image.
 
-## Color Reference
+#### Color Reference
 
 Check the app on Google Play by clicking [here](https://play.google.com/store/apps/details?id=com.aqyanoos.colorreference).
 
@@ -42,7 +42,7 @@ With this app you can get the Hex value, RGB value, HSL value and name of any co
 6. Copy color values to clipboard and use it anywhere you want.
 
 
-## Text Editor or Code Editor
+#### Text Editor or Code Editor
 
 Check the app on Google Play by clicking [here](https://play.google.com/store/apps/details?id=com.aqyanoos.texteditor).
 
@@ -56,8 +56,6 @@ This app is a great text editor or notepad for Android devices.
 
 
 Visit my [LinkedIn](https://www.linkedin.com/in/sayed-kazimi-0507/) Profile.
-
-You can find my finished projects [here](https://everydaysmarter.herokuapp.com/projects.html)
 
 <!-- You can find our final project [here](https://here-my-story.herokuapp.com/) -->
 
@@ -84,21 +82,20 @@ You can find my finished projects [here](https://everydaysmarter.herokuapp.com/p
 5. HTML, CSS, SCSS
 6. Git and GitLab
 7. Vue, React, Angular
-8. Navvis IVION
-9. Python
-10. And another development tools
+8. Python
+9. And another development tools
 
 
 #### I can work with:
-- Reactjs, Vue, Angular, HTML5, CSS3/SASS
+- Reactjs, Vue, Angular, HTML5, CSS3 and SCSS/SASS
 - Nodejs, Expressjs, JavaScript/TypeScript
 - Git/GitHub/GitLab
-- MS SQL/SQLite
+- MS SQL and SQLite
 - Command-line(MS PowerShell)
 - Python
+- C# and ASP.Net Core MVC web app projects
 - Java(Fundamentals)
 - C++(Fundamentals)
-- C# and ASP.Net Core MVC web app projects
 - Microsoft Server 2016/2019
 - Microsoft Office tools(Word, PowerPoint, Excel, Outlook, ...)
 - Microsoft Office365
@@ -108,12 +105,7 @@ You can find my finished projects [here](https://everydaysmarter.herokuapp.com/p
   - VMWare
   - VirtualBox
 
-### I am learning:
-
-- Improving my knowledge of C++ and C#
-- Improving my knowledge of mobile application development
-
-## Thank you for your visit
+## Thank you for visiting my profile
 
 
 <!--
