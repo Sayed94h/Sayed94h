@@ -16,7 +16,7 @@ Check the app on Google Play by clicking [here](https://play.google.com/store/ap
 
 This is a drawing application or a digital board that helps you draw anything you want.
 
-#### Features
+__Features__
 
 1. Change board's background color to any color you want.
 2. Change pen size to any size you want.
@@ -32,7 +32,7 @@ Check the app on Google Play by clicking [here](https://play.google.com/store/ap
 This app helps you with colors. If you deal with colors then this is a great app for you.
 With this app you can get the Hex value, RGB value, HSL value and name of any color in the list and there is a great color picker that helps you pick/choose any color you want.
 
-#### Features
+__Features__
 
 1. Get Hex, RGB, HSL and name of most used colors.
 2. Pick any color you want and get its Hex and RGB value.
