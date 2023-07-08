@@ -48,14 +48,9 @@ Check the app on Google Play by clicking [here](https://play.google.com/store/ap
 
 This app helps you read, edit and create text based files.
 
-This app is a great text editor or notepad for Android devices.
-
-**The current version of this app(Text Editor) is only for Android 11 and above but the next version will be for Android 4 and above.**
+This app is a great Text Editor, Notepad or Code Editor for Android devices.
 
 ### Please do not forget to rate my apps on Google Play, thank you!
-
-
-Visit my [LinkedIn](https://www.linkedin.com/in/sayed-kazimi-0507/) Profile.
 
 <!-- You can find our final project [here](https://here-my-story.herokuapp.com/) -->
 
